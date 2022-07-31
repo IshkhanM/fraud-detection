@@ -1,2 +1,2 @@
-sum = 10 +10
-print(sum)
+sum1 = 10 +10
+print(sum1)
